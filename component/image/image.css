@@ -1,0 +1,25 @@
+/* General */
+
+a {
+    text-decoration: none;
+}
+
+/* Typography */
+
+:root {
+    --font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue",
+    Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+/* Image */
+
+.round {
+    border-radius: 50%;
+}
+
+.responsive {
+    width: 100%;
+    max-width: 250px;
+    height: auto;
+}
