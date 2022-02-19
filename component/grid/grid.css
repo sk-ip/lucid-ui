@@ -1,0 +1,30 @@
+/* General */
+
+a {
+    text-decoration: none;
+}
+
+/* Typography */
+
+:root {
+    --font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue",
+    Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+/* Grid */
+
+.grid-2 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+}
+
+.grid-3 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+}
+
+.grid-item {
+  border: 1px solid black;
+  background-color: #17a2b8;
+}
