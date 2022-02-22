@@ -4,34 +4,26 @@ a {
     text-decoration: none;
 }
 
-/* Typography */
-
-:root {
-    --font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue",
-    Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji",
-    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-}
-
 /* Avatar */
 
 .avatar {
     border-radius: 50%;
-    width: 32px;
-    height: 32px;
+    width: 32rem;
+    height: 32rem;
     object-fit: contain;
 }
 
 .avatar-sm {
-    width: 48px;
-    height: 48px;
+    width: 48rem;
+    height: 48rem;
 }
 
 .avatar-md {
-    width: 64px;
-    height: 64px;
+    width: 64rem;
+    height: 64rem;
 }
 
 .avatar-lg {
-    width: 80px;
-    height: 80px;
+    width: 80rem;
+    height: 80rem;
 }
