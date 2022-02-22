@@ -1,5 +1,8 @@
 /*Rating*/
+:root {
+    --orange: #FFA500
+}
 
 .checked {
-    color: orange;
+    color: var(--orange);
 }

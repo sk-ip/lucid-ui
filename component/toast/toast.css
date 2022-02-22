@@ -10,6 +10,7 @@ a {
     --font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue",
     Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji",
     "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    --toast-action-text-color: #bb86fc;
 }
 
 /* Toast */
@@ -47,7 +48,7 @@ a {
 }
 
 .toast-action {
-    color: #bb86fc;
+    color: var(--toast-action-text-color);
     text-transform: uppercase;
     cursor: pointer;
 }
