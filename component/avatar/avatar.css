@@ -1,0 +1,29 @@
+/* General */
+
+a {
+    text-decoration: none;
+}
+
+/* Avatar */
+
+.avatar {
+    border-radius: 50%;
+    width: 32rem;
+    height: 32rem;
+    object-fit: contain;
+}
+
+.avatar-sm {
+    width: 48rem;
+    height: 48rem;
+}
+
+.avatar-md {
+    width: 64rem;
+    height: 64rem;
+}
+
+.avatar-lg {
+    width: 80rem;
+    height: 80rem;
+}
