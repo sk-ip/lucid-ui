@@ -4,19 +4,11 @@ a {
     text-decoration: none;
 }
 
-/* Typography */
-
-:root {
-    --font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue",
-    Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji",
-    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-}
-
 /* Cards */
 
 .card-image {
-  width: 400px;
-  height: 250px;
+  width: 400rem;
+  height: 250rem;
   border-radius: 5px;
 }
 
