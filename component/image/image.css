@@ -1,0 +1,17 @@
+/* General */
+
+a {
+    text-decoration: none;
+}
+
+/* Image */
+
+.round {
+    border-radius: 50%;
+}
+
+.responsive {
+    width: 100%;
+    max-width: 250rem;
+    height: auto;
+}
