@@ -13,6 +13,21 @@
 @import url('./text/text.css');
 @import url('./toast/toast.css');
 
+/* General */
+
+a {
+    text-decoration: none;
+}
+
+/* Typography */
+
+:root {
+    --font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue",
+    Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
 .hidden {
     visibility: hidden;
 }
+

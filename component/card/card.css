@@ -7,8 +7,8 @@ a {
 /* Cards */
 
 .card-image {
-  width: 400rem;
-  height: 250rem;
+  width: 400px;
+  height: 250px;
   border-radius: 5px;
 }
 

@@ -1,72 +1,60 @@
-/* General */
 
-a {
-    text-decoration: none;
-}
-
-/* Typography */
-
-:root {
-    --font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue",
-    Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji",
-    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-}
 
 /* Text Utilities */
 
 .heading1 {
-    font-size: 48rem;
-    line-height: 64rem;
+    font-size: 48px;
+    line-height: 64px;
     font-weight: 700;
 }
 
 .heading2 {
-    font-size: 32rem;
-    line-height: 40rem;
+    font-size: 32px;
+    line-height: 40px;
     font-weight: 600;
 }
 
 .heading3 {
-    font-size: 24rem;
-    line-height: 32rem;
+    font-size: 24px;
+    line-height: 32px;
     font-weight: 600;
 }
 
 .heading4 {
-    font-size: 16rem;
-    line-height: 24rem;
+    font-size: 16px;
+    line-height: 24px;
     font-weight: 400;
 }
 
 .heading5 {
     font-size: 8px;
-    line-height: 16rem;
+    line-height: 16px;
     font-weight: 400;
 }
 
 .text1 {
-    font-size: 48rem;
-    line-height: 64rem;
+    font-size: 48px;
+    line-height: 64px;
 }
 
 .text2 {
-    font-size: 32rem;
-    line-height: 40rem;
+    font-size: 32px;
+    line-height: 40px;
 }
 
 .text3 {
-    font-size: 24rem;
-    line-height: 32rem;
+    font-size: 24px;
+    line-height: 32px;
 }
 
 .text4 {
-    font-size: 16rem;
-    line-height: 24rem;
+    font-size: 16px;
+    line-height: 24px;
 }
 
 .text5 {
     font-size: 8px;
-    line-height: 16rem;
+    line-height: 16px;
 }
 
 .light {

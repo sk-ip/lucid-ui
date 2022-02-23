@@ -8,22 +8,22 @@ a {
 
 .avatar {
     border-radius: 50%;
-    width: 32rem;
-    height: 32rem;
+    width: 32px;
+    height: 32px;
     object-fit: contain;
 }
 
 .avatar-sm {
-    width: 48rem;
-    height: 48rem;
+    width: 48px;
+    height: 48px;
 }
 
 .avatar-md {
-    width: 64rem;
-    height: 64rem;
+    width: 64px;
+    height: 64px;
 }
 
 .avatar-lg {
-    width: 80rem;
-    height: 80rem;
+    width: 80px;
+    height: 80px;
 }
