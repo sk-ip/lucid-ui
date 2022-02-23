@@ -4,14 +4,6 @@ a {
     text-decoration: none;
 }
 
-/* Typography */
-
-:root {
-    --font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue",
-    Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji",
-    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-}
-
 /* Image */
 
 .round {
@@ -20,6 +12,6 @@ a {
 
 .responsive {
     width: 100%;
-    max-width: 250px;
+    max-width: 250rem;
     height: auto;
 }
