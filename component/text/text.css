@@ -15,58 +15,58 @@ a {
 /* Text Utilities */
 
 .heading1 {
-    font-size: 48px;
-    line-height: 64px;
+    font-size: 48rem;
+    line-height: 64rem;
     font-weight: 700;
 }
 
 .heading2 {
-    font-size: 32px;
-    line-height: 40px;
+    font-size: 32rem;
+    line-height: 40rem;
     font-weight: 600;
 }
 
 .heading3 {
-    font-size: 24px;
-    line-height: 32px;
+    font-size: 24rem;
+    line-height: 32rem;
     font-weight: 600;
 }
 
 .heading4 {
-    font-size: 16px;
-    line-height: 24px;
+    font-size: 16rem;
+    line-height: 24rem;
     font-weight: 400;
 }
 
 .heading5 {
     font-size: 8px;
-    line-height: 16px;
+    line-height: 16rem;
     font-weight: 400;
 }
 
 .text1 {
-    font-size: 48px;
-    line-height: 64px;
+    font-size: 48rem;
+    line-height: 64rem;
 }
 
 .text2 {
-    font-size: 32px;
-    line-height: 40px;
+    font-size: 32rem;
+    line-height: 40rem;
 }
 
 .text3 {
-    font-size: 24px;
-    line-height: 32px;
+    font-size: 24rem;
+    line-height: 32rem;
 }
 
 .text4 {
-    font-size: 16px;
-    line-height: 24px;
+    font-size: 16rem;
+    line-height: 24rem;
 }
 
 .text5 {
     font-size: 8px;
-    line-height: 16px;
+    line-height: 16rem;
 }
 
 .light {
