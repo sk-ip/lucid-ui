@@ -1,0 +1,102 @@
+/* General */
+
+a {
+    text-decoration: none;
+}
+
+/* Typography */
+
+:root {
+    --font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue",
+    Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+/* Text Utilities */
+
+.heading1 {
+    font-size: 48rem;
+    line-height: 64rem;
+    font-weight: 700;
+}
+
+.heading2 {
+    font-size: 32rem;
+    line-height: 40rem;
+    font-weight: 600;
+}
+
+.heading3 {
+    font-size: 24rem;
+    line-height: 32rem;
+    font-weight: 600;
+}
+
+.heading4 {
+    font-size: 16rem;
+    line-height: 24rem;
+    font-weight: 400;
+}
+
+.heading5 {
+    font-size: 8px;
+    line-height: 16rem;
+    font-weight: 400;
+}
+
+.text1 {
+    font-size: 48rem;
+    line-height: 64rem;
+}
+
+.text2 {
+    font-size: 32rem;
+    line-height: 40rem;
+}
+
+.text3 {
+    font-size: 24rem;
+    line-height: 32rem;
+}
+
+.text4 {
+    font-size: 16rem;
+    line-height: 24rem;
+}
+
+.text5 {
+    font-size: 8px;
+    line-height: 16rem;
+}
+
+.light {
+    font-weight: 300;
+}
+
+.regular {
+    font-weight: 400;
+}
+
+.semibold {
+    font-weight: 600;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.black {
+    font-weight: 900;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-right {
+  text-align: right;
+}
