@@ -1,0 +1,23 @@
+
+
+/* Navigation */
+.nav {
+    background-color: whitesmoke;
+    width: fit-content;
+}
+
+.nav-list {
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    width: fit-content;
+}
+
+.nav-list-item {
+    padding: 10px;
+    cursor: pointer;
+}
+
+.nav-list-item:hover {
+    background-color: grey;
+}
